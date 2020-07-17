@@ -1,0 +1,37 @@
+font:
+  normal:
+    family: 'JetBrains Mono Medium'
+    style: Regular
+
+  offset:
+    x: 0
+    y: 0
+
+  size: 6.0
+
+colors:
+  primary:
+    background: '0x111111'
+    foreground: '0xFFFFFF'
+
+  normal:
+    black: '0x5D5D5D'
+    red: '0xFF4141'
+    green: '0x41FF49'
+    yellow: '0xFFF341'
+    blue: '0x53BDFA'
+    magenta: '0xE97BA8'
+    cyan: '0x68DDE9'
+    white: '0xC7C7C7'
+
+  bright:
+    black: '0x1A1C1E'
+    red: '0xF0544C'
+    green: '0xC2D94C'
+    yellow: '0xFFB454'
+    blue: '0x59C2FF'
+    magenta: '0xFFEE99'
+    cyan: '0x95E6CB'
+    white: '0xFFFFFF'
+
+background_opacity: 0.65

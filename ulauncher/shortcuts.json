@@ -1,0 +1,52 @@
+{
+    "7cd28157-5335-4de8-b499-289f3c234fcf": {
+        "id": "7cd28157-5335-4de8-b499-289f3c234fcf",
+        "name": "Google Search",
+        "keyword": "g",
+        "cmd": "https://google.com/search?q=%s",
+        "icon": "/usr/share/ulauncher/media/google-search-icon.png",
+        "is_default_search": true,
+        "run_without_argument": false,
+        "added": 1593941649.41039
+    },
+    "a036e263-af62-407c-add4-f6455a7a1a44": {
+        "id": "a036e263-af62-407c-add4-f6455a7a1a44",
+        "name": "Stack Overflow",
+        "keyword": "so",
+        "cmd": "http://stackoverflow.com/search?q=%s",
+        "icon": "/usr/share/ulauncher/media/stackoverflow-icon.svg",
+        "is_default_search": true,
+        "run_without_argument": false,
+        "added": 1593941649.4104795
+    },
+    "3d1335aa-b986-4d25-b342-6f385f520412": {
+        "id": "3d1335aa-b986-4d25-b342-6f385f520412",
+        "name": "Wikipedia",
+        "keyword": "wiki",
+        "cmd": "https://en.wikipedia.org/wiki/%s",
+        "icon": "/usr/share/ulauncher/media/wikipedia-icon.png",
+        "is_default_search": true,
+        "run_without_argument": false,
+        "added": 1593941649.4105382
+    },
+    "d27fefcb-a571-4f73-a2b7-8ba47b97050e": {
+        "id": "d27fefcb-a571-4f73-a2b7-8ba47b97050e",
+        "name": "SoundCloud",
+        "keyword": "sc",
+        "cmd": "https://soundcloud.com",
+        "icon": null,
+        "is_default_search": false,
+        "run_without_argument": true,
+        "added": 1593946510.0531085
+    },
+    "f9d2d804-a1b1-4af0-a52b-95bf7a86e42a": {
+        "id": "f9d2d804-a1b1-4af0-a52b-95bf7a86e42a",
+        "name": "Youtube",
+        "keyword": "yt",
+        "cmd": "https://www.youtube.com/results?search_query=%s",
+        "icon": null,
+        "is_default_search": false,
+        "run_without_argument": false,
+        "added": 1593951025.1615725
+    }
+}
